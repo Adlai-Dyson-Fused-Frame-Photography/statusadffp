@@ -10,6 +10,16 @@ sites:
     url: https://clients.adlaidyson.co.uk
   - name: ADFFP Cloud (NextCloud)
     url: https://cloud.fusedframe.co.uk
+  - name: DocuSign (Document Signing Platform)
+    url: https://sign.adlaidyson.co.uk
+  - name: Content Delivery Network (CDN) - Cloudflare R2
+    url: https://cdn-eu.fusedframe.co.uk/main-branding/status.html
+  - name: URL Shortner - adffp.uk
+    url: adffp.uk
+  - name: Shutter Society Mastodon
+    url: shuttersociety.uk
+  - name: Upper Haugh Weather (Frontend)
+    url: uhwapp.adlaidyson.co.uk
 
 status-website:
   cname: status.adffp.uk
