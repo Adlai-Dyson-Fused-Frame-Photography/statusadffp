@@ -22,19 +22,19 @@
     "url": "https://links.adlaidyson.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/links.adlaidyson.co.uk.ico",
     "slug": "link-in-bio",
-    "status": "down",
-    "uptime": "1.51%",
-    "uptimeDay": "1.51%",
-    "uptimeWeek": "1.51%",
-    "uptimeMonth": "1.51%",
-    "uptimeYear": "1.51%",
+    "status": "up",
+    "uptime": "1.57%",
+    "uptimeDay": "1.57%",
+    "uptimeWeek": "1.57%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 126
+      "2025-12-29": 130
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clients.adlaidyson.co.uk.ico",
     "slug": "client-galleries-picr",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
+    "uptime": "1.57%",
+    "uptimeDay": "1.57%",
+    "uptimeWeek": "1.57%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-12-29": 126
+      "2025-12-29": 130
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://cloud.fusedframe.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.fusedframe.co.uk.ico",
     "slug": "adffp-cloud-next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-12-29": 143
+      "2025-12-29": 146
     }
   }
 ]
