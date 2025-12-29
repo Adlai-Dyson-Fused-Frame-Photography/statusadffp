@@ -100,19 +100,19 @@
     "url": "https://cdn-eu.fusedframe.co.uk/main-branding/status.html",
     "icon": "https://icons.duckduckgo.com/ip3/cdn-eu.fusedframe.co.uk.ico",
     "slug": "content-delivery-network-cdn-cloudflare-r2",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
+    "time": 422,
+    "timeDay": 422,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-12-29": 0
+      "2025-12-29": 22
     }
   },
   {
