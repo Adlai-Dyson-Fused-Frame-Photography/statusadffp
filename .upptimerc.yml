@@ -1,7 +1,6 @@
 # Change these first
 owner: adlaidyson-ffp # Your GitHub organization or username, where this repository lives
 repo: statusadffp # The name of this repository
-user-agent: Upptime-ADFFP-CF-WAF-Skip
 
 sites:
   - name: Main Website
