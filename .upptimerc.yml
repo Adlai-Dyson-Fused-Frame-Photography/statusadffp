@@ -19,7 +19,9 @@ sites:
   - name: Shutter Society Mastodon
     url: shuttersociety.uk
   - name: Upper Haugh Weather (Frontend)
-    url: uhwapp.adlaidyson.co.uk
+    url: upperhaughweather.uk
+  - name: Upper Haugh Weather (API Backend)
+    url: api.upperhaughweather.uk/weather
 
 status-website:
   cname: status.adffp.uk
