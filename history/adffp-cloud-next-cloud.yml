@@ -1,7 +1,7 @@
 url: https://cloud.fusedframe.co.uk
-status: up
-code: 200
-responseTime: 790
-lastUpdated: 2026-02-05T23:28:52.641Z
+status: down
+code: 502
+responseTime: 2580
+lastUpdated: 2026-02-06T01:20:25.710Z
 startTime: 2025-12-29T16:19:17.536Z
 generator: Upptime <https://github.com/upptime/upptime>
