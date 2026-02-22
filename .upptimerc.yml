@@ -10,8 +10,6 @@ sites:
     url: https://links.adlaidyson.co.uk
   - name: ADFFP Cloud (NextCloud)
     url: https://cloud.fusedframe.co.uk
-  - name: DocuSign (Document Signing Platform)
-    url: https://sign.adlaidyson.co.uk
   - name: Content Delivery Network (CDN) - Cloudflare R2
     url: https://cdn-eu.fusedframe.co.uk/main-branding/status.html
   - name: URL Shortener - adffp.uk
